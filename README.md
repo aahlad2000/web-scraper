@@ -1,2 +1,3 @@
-# Java-Web-Scraper
-Nothing much to see just a simple Java Webscraping project uploaded for reference
+# web-scraper
+
+Web scraper using Java's JSOUP library to fetch info of a public website.
